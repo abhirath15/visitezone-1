@@ -30,7 +30,7 @@ class MegaMenu extends React.Component{
 				<ul class="mega-menu">
 			              <li>
 				              <span class="mega-menu-title">
-				              	Category 1
+				              	Category 2
 				              </span>
 
 			                  <ul class="sub-menu">
